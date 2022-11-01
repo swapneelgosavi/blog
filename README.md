@@ -1,5 +1,5 @@
 # Blog mobile application
 
-Screen Animation :
+## Screen Animation :
 
 ![Alt text](for_readme/Screens.gif "Screens")
